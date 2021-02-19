@@ -1,0 +1,2 @@
+# AetherEffects
+AetherEffects plugin files.
