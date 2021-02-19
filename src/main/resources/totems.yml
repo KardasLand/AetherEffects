@@ -1,0 +1,22 @@
+Totems:
+  madenci:
+    material:
+      name: "&9Madenci Totemi"
+      type: "PAPER"
+      data: 0
+      lore:
+        - "&7Madencilerin yol arkadaşı!"
+        - "&7Kalan yakıt: &b%mevcutyakit%"
+        - "&7Kalan süre: &b%kalansure%"
+    effects-when-active:
+      - SPEED,2
+    fuel:
+      fuel-cap: 20
+      amount: 1
+      duration: 20
+      name: "&bMadenci Yakıtı"
+      material:
+        type: "COAL"
+        data: 0
+      lore:
+        - "&b%totem% &7toteminin yakıtıdır."

@@ -1,0 +1,39 @@
+Prefix: '&bAetherTotems > &7'
+GUI:
+  Main-Title: "&cTotem Bilgi Ekranı"
+  Totem-Effect-Info:
+    Title: "&aTotem Efektleri"
+    material:
+      type: "BEACON"
+      data: 0
+    Effects-Placeholder:
+      - "&7- &b%level%&7. Seviye &b%effect% &7efekti"
+  Add-Fuel:
+    Title: "&7Yakıt"
+    material:
+      type: "COAL"
+      data: 0
+    Lore:
+      - "&71 Döngüde yaktığı yakıt: &b%yakilanyakit%"
+      - "&7Maksimum yakıt: &b%maxyakit%"
+      - "&7Yakıt tüketme döngüsü: &b%yakitsure% saniye"
+      - "&7Mevcut yakıt: &b%mevcutyakit%"
+      - " "
+      - "&7Yakıt eklemek için tıkla!"
+  Change-Activity:
+    Inactive:
+      material:
+        type: "WOOL"
+        data: 14
+      Title: "&cInaktif!"
+      Lore:
+        - "&7Şu anda totem inaktif."
+        - "&7Açmak için tıkla!"
+    Active:
+      material:
+        type: "WOOL"
+        data: 5
+      Title: "&aAktif!"
+      Lore:
+        - "&7Şu anda totem aktif ve yakıt tüketmekte."
+        - "&7Kapamak için tıkla!"

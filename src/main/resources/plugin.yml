@@ -1,0 +1,13 @@
+name: AetherEffects
+version: ${project.version}
+main: com.kardasland.aethertotems.AetherTotems
+depend: [ Vault, SmartInvs ]
+api-version: 1.12
+authors: [ KardasLand ]
+description: Give colors to totems.
+website: www.kardasland.com
+commands:
+  aethertotems:
+    aliases:
+      - aethereffects
+      - totems

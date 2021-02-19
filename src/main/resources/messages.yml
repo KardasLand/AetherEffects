@@ -1,0 +1,7 @@
+Not-Enough-Permissions: 'Yeterli yetki bulunmamakta! (%yetki%)'
+Successfully-Given: 'Başarıyla %hedef% adlı oyuncuya %item% totemi/yakıtı verdin!'
+No-Fuel-Left: "%totem% toteminin yakıtı bitti!"
+Successfully-Switched: '&7Başarıyla totemi %durum% yaptın!'
+No-Fuel: "&7Yeterli yakıtın yok!"
+Added-Fuel: "&7Başarıyla yakıt koydun!"
+Exceeded-Fuel-Cap: "&7Kapasiteyi geçtin! Maksimum yakıt kapasitesi: %kapasite%"
